@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blection.github.io/sitemap.txt.gz
+Sitemap: https://blection.github.io/app/sitemap.txt.gz
+Sitemap: https://blection.github.io/assets/sitemap.txt.gz
+Sitemap: https://blection.github.io/css/sitemap.txt.gz
+Sitemap: https://blection.github.io/includes/sitemap.txt.gz
+Sitemap: https://blection.github.io/item/sitemap.txt.gz
+Sitemap: https://blection.github.io/src/sitemap.txt.gz
